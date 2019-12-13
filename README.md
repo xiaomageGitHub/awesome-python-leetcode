@@ -25,7 +25,7 @@ https://leetcode.com/problems/permutations/discuss/18284/Backtrack-Summary%3A-Ge
 | 47 | Permutations II | https://leetcode.com/problems/permutations-ii/ | Medium | Backtracking |  |  |
 | 60 | Permutation Sequence | https://leetcode.com/problems/permutation-sequence/ | Medium | Backtracking/Math |  |  |
 | 131 | Palindrome Partitioning | https://leetcode.com/problems/palindrome-partitioning/ | Medium | Backtracking |  |  |
-| 267 | Palindrome Permutation II | https://leetcode.com/problems/palindrome-permutation-ii/ | Medium | Backtracking | 31. Next Permutation: https://leetcode.com/problems/next-permutation/ Medium Array<br>266. Palindrome Permutation: https://leetcode.com/problems/palindrome-permutation/ Easy HashTable |  |
+| 267 | Palindrome Permutation II | https://leetcode.com/problems/palindrome-permutation-ii/ | Medium | Backtracking | 31. Next Permutation: https://leetcode.com/problems/next-permutation/ &#124; Medium &#124; Array<br>266. Palindrome Permutation: https://leetcode.com/problems/palindrome-permutation/ &#124; Easy &#124; HashTable |  |
 
 
 
