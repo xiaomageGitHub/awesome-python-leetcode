@@ -12,14 +12,24 @@
       1. 这是三级的有序列表，数字在显示的时候变成了英文字母
          1. 这是三级的有序列表，数字在显示的时候变成了英文字母
     
-| # | Title | Solutions | Difficulty | Tag | Note |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Content Cell | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
-| Content Cell | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
-| Content Cell | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
-| Content Cell | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
-| Content Cell | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
-| Content Cell | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
-| Content Cell | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
+    
+https://leetcode.com/problems/permutations/discuss/18284/Backtrack-Summary%3A-General-Solution-for-10-Questions!!!!!!!!-Python-(Combination-Sum-Subsets-Permutation-Palindrome)
+
+| # | Title | Link | Difficulty | Tag | Related | Note |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 39 | Combination Sum | https://leetcode.com/problems/combination-sum/ | Medium | Backtracking/Array |  |  |
+| 40 | Combination Sum II | https://leetcode.com/problems/combination-sum-ii/ | Medium | Backtracking/Array |  |  |
+| 78 | Subsets | https://leetcode.com/problems/subsets/ | Medium | Backtracking/Array/Bit Manipulation |  |  |
+| 90 | Subsets II | https://leetcode.com/problems/subsets-ii/ | Medium | Backtracking/Array |  |  |
+| 46 | Permutations | https://leetcode.com/problems/permutations/ | Medium | Backtracking |  |  |
+| 47 | Permutations II | https://leetcode.com/problems/permutations-ii/ | Medium | Backtracking |  |  |
+| 60 | Permutation Sequence | https://leetcode.com/problems/permutation-sequence/ | Medium | Backtracking/Math |  |  |
+| 131 | Palindrome Partitioning | https://leetcode.com/problems/palindrome-partitioning/ | Medium | Backtracking |  |  |
+| 267 | Palindrome Permutation II | https://leetcode.com/problems/palindrome-permutation-ii/ | Medium | Backtracking | 31. Next Permutation: https://leetcode.com/problems/next-permutation/: Medium: Array<br>266. Palindrome Permutation: https://leetcode.com/problems/palindrome-permutation/: Easy: HashTable |  |
+
+
+
+
+
 
 
